@@ -1,2 +1,5 @@
-# autohotkey
-this is my autohotkey scripts
+# 食用说明
+
+1.安装autohotkey
+
+2.打开对应脚本(有些可能需要用管理员启动)
